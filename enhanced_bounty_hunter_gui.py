@@ -89,7 +89,7 @@ class EnhancedBountyHunterGUI:
         
         # Title with hacker aesthetic
         title_label = ttk.Label(header_frame, 
-                               text="⚡ BOUNTY HUNTER PRO ⚡", 
+                               text="⚡ BOUNTY HUNTER PRO (KBSCRAPPER)⚡", 
                                style='Title.TLabel')
         title_label.pack(side='left', pady=25)
         
