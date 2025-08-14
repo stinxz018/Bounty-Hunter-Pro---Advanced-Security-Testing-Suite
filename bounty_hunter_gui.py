@@ -85,7 +85,7 @@ class BountyHunterGUI:
         
         # Title
         title_label = ttk.Label(header_frame, 
-                               text="🎯 BOUNTY HUNTER PRO", 
+                               text="🎯 BOUNTY HUNTER PRO (KBSCRAPPER)", 
                                style='Title.TLabel')
         title_label.pack(side='left', pady=20)
         
